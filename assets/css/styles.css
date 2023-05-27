@@ -136,6 +136,10 @@ img{
 .nav_logo{
     color: var(--white-color);
 }
+.nav_logo:hover{
+    color: var(--white-color);
+    text-decoration: none;
+}
 .nav_togle{
     color: var(--white-color);
     font-size: 1.5rem;
